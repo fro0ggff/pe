@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	background: #74b6db;
+  	font-family: arial, sans-serif;
+}
+a { 
+	text-decoration: none; 
+} 
+h3{
+	padding: 5px!important;
+	font-family: arial, sans-serif;
+	color: white;
+}
+.testblock{
+	height: 150px;
+	width: 300px;
+	border-radius: 20px;
+	background-color: white;
+}
+.button{
+	height: 35px;
+	width: 200px;
+	text-align: center;
+	background: #31e063;
+	border-radius: 20px;
+}
